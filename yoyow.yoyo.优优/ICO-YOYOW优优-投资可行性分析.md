@@ -1,7 +1,7 @@
 ICO-YOYOW优优-投资可行性分析
 =====
 
-![yoyow-logo](../logo/yoyow-logo.jpg“yoyow-logo”)
+![yoyow-logo](../logo/yoyow-logo.jpg)
 项目介绍
 ----
 * *YOYOW 是一个基于区块链技术的内容创造和分享平台，名字来自"You Own Your Own Words"， 通过奖励有价

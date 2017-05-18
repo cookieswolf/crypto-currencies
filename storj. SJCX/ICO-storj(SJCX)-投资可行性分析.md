@@ -1,7 +1,7 @@
 ICO-storj(SJCX)-投资可行性分析
 =====
 
-![storj-logo](../logo/storj-logo.jpg“storj-logo”)
+![storj-logo](../logo/storj-logo.jpg)
 
 项目介绍
 ----

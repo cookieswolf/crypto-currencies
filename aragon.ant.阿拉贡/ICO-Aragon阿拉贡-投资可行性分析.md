@@ -1,7 +1,7 @@
 ICO-Aragon阿拉贡-投资可行性分析
 =====
 
-![aragon-logo](../logo/aragon-logo.jpg"aragon-logo")
+![aragon-logo](../logo/aragon-logo.jpg)
 
 项目介绍
 ----
