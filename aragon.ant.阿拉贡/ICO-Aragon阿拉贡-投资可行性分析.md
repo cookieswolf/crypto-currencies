@@ -1,6 +1,8 @@
 ICO-Aragon阿拉贡-投资可行性分析
 =====
 
+![aragon-logo](../logo/aragon-logo.jpg"aragon-logo")
+
 项目介绍
 ----
 * *阿拉贡是以太坊上的去中心化的组织管理平台。通过阿拉贡，组织可以通过人性化的集成界面方便地管理股票、期权、融资、员工工资、内部法规等，并且可以根据组织具体情况高度定制。 其愿景是让去中心化组织遍布全球。*
@@ -62,14 +64,14 @@ ICO信息
 
 |网站|链接|
 |:----:|:------:|
-|官网|[Aragon.one](Aragon.one)|
-|ICO平台|[icoage.com](icoage.com)|
-|twitter|[Twitter.com/aragonproject](Twitter.com/aragonproject)|
-|medium|[Blog.aragon.one](Blog.aragon.one)|
-|slack|[Aragon.chat](Aragon.chat)|
-|white paper|[github.com/aragon/whitepaper/raw/master/Aragon%20Whitepaper.pdf](github.com/aragon/whitepaper/raw/master/Aragon%20Whitepaper.pdf)|
-|One Pager|[github.com/aragon/docs/raw/master/Aragon-One-Pager.pdf](github.com/aragon/docs/raw/master/Aragon-One-Pager.pdf)|
-|Development Plan|[github.com/aragon/docs/raw/master/Aragon-Development-Plan.pdf](github.com/aragon/docs/raw/master/Aragon-Development-Plan.pdf)|
+|官网|[Aragon.one](http://www.Aragon.one)|
+|ICO平台|[icoage.com](http://www.icoage.com)|
+|twitter|[Twitter.com/aragonproject](http://www.Twitter.com/aragonproject)|
+|medium|[Blog.aragon.one](http://Blog.aragon.one)|
+|slack|[Aragon.chat](http://www.Aragon.chat)|
+|white paper|[github.com/aragon/whitepaper/raw/master/Aragon%20Whitepaper.pdf](http://github.com/aragon/whitepaper/raw/master/Aragon%20Whitepaper.pdf)|
+|One Pager|[github.com/aragon/docs/raw/master/Aragon-One-Pager.pdf](http://github.com/aragon/docs/raw/master/Aragon-One-Pager.pdf)|
+|Development Plan|[github.com/aragon/docs/raw/master/Aragon-Development-Plan.pdf](http://github.com/aragon/docs/raw/master/Aragon-Development-Plan.pdf)|
 
 
 

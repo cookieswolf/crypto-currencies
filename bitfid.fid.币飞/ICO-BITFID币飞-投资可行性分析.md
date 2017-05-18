@@ -1,6 +1,7 @@
 ICO-BITFID币飞-投资可行性分析
 =====
 
+![bitfid-logo](../logo/bitfid-logo.jpg"bitfid-logo")
 项目介绍
 ----
 * **币飞致力于通过区块链技术和智能合约技术，结合人工智能的应用创新，打造一个去中心化、安全、便捷、全球化的和实际金融业务紧密结合的区块链——飞链（FIDChain），基于飞链为普通投资者及专业投资者提供全面、智能的投资工具，共同促进全球区块链新金融的发展。**
@@ -58,8 +59,8 @@ ICO-BITFID币飞-投资可行性分析
 
 |网站|链接|
 |:----:|:------:|
-|官网|[bitfid.com](bitfid.com)|
-|ICO平台|[icoage.com](icoage.com)|
-|white paper|[doc.bitfid.com/BITFID-ICO-V1.0.pdf](doc.bitfid.com/BITFID-ICO-V1.0.pdf)|
+|官网|[bitfid.com](http://www.bitfid.com)|
+|ICO平台|[icoage.com](http://www.icoage.com)|
+|white paper|[doc.bitfid.com/BITFID-ICO-V1.0.pdf](http://doc.bitfid.com/BITFID-ICO-V1.0.pdf)|
 
 

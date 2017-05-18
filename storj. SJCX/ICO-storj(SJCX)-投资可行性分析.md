@@ -1,7 +1,7 @@
 ICO-storj(SJCX)-投资可行性分析
 =====
 
-![storj-logo](../logo/storj-logo.jpg)
+![storj-logo](../logo/storj-logo.jpg“storj-logo”)
 
 项目介绍
 ----
@@ -58,13 +58,13 @@ ICO信息
 
 |网站|链接|
 |:----:|:------:|
-|官网|[storj.io](storj.io/index.html)|
-|ICO平台|[icoage.com](icoage.com)|
-|twitter|[twitter.com/storjproject](twitter.com/storjproject)|
-|medium|[medium.com/@storjproject](medium.com/@storjproject)|
-|facebook|[facebook.com/storjproject](facebook.com/storjproject)|
-|white paper|[storj.io/storj.pdf](storj.io/storj.pdf)|
-|github|[github.com/Storj/](github.com/Storj/)|
+|官网|[storj.io](http://storj.io/index.html)|
+|ICO平台|[icoage.com](http://www.icoage.com)|
+|twitter|[twitter.com/storjproject](http://www.twitter.com/storjproject)|
+|medium|[medium.com/@storjproject](http://www.medium.com/@storjproject)|
+|facebook|[facebook.com/storjproject](http://www.facebook.com/storjproject)|
+|white paper|[storj.io/storj.pdf](http://storj.io/storj.pdf)|
+|github|[github.com/Storj/](http://www.github.com/Storj/)|
 
 
 

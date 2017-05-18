@@ -1,6 +1,7 @@
 ICO-YOYOW优优-投资可行性分析
 =====
 
+![yoyow-logo](../logo/yoyow-logo.jpg“yoyow-logo”)
 项目介绍
 ----
 * *YOYOW 是一个基于区块链技术的内容创造和分享平台，名字来自"You Own Your Own Words"， 通过奖励有价
@@ -65,9 +66,9 @@ ETH 兑换比例暂定为：5月20日12点时，中国比特币以太坊的价�
 
 |网站|链接|
 |:----:|:------:|
-|官网|[Yoyow.org](Yoyow.org)|
-|ICO平台|[icoage.com](icoage.com)|
-|twitter|[twitter.com/InfoYoyow](twitter.com/InfoYoyow)|
-|white paper|[yoyow.org/files/white-paper2.pdf](yoyow.org/files/white-paper2.pdf)|
+|官网|[Yoyow.org](http://www.Yoyow.org)|
+|ICO平台|[icoage.com](htttp://www.icoage.com)|
+|twitter|[twitter.com/InfoYoyow](http://www.twitter.com/InfoYoyow)|
+|white paper|[yoyow.org/files/white-paper2.pdf](http://yoyow.org/files/white-paper2.pdf)|
 
 
