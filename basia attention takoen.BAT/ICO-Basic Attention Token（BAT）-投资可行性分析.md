@@ -1,7 +1,7 @@
 ICO-Basic Attention Token（BAT）-投资可行性分析
 =====
 
-![bat-logo](../logo/basic attention token-logo.jpg)
+![bat-logo](../logo/basicattentiontoken-logo.jpg)
 
 项目介绍
 ----
@@ -22,6 +22,8 @@ ICO-Basic Attention Token（BAT）-投资可行性分析
 |70%|ICO|用于BAT生态系统的开发和发展，其中包括基于Etherey的智能合约系统和Brave浏览器。|
 |20%|开发团队|用于开发，营销，运营和其他成本|
 |10%|用户增长池|将用于激励用户下载Brave浏览器|
+
+
 *注：作为下载Brave浏览器的激励代币只能在浏览器系统中使用（消费或捐赠）。任何在指定之间内未被用户使用的BAT将被返回到池中。一旦用户增长池用尽，将不再增加增长池中的代币。*
 
 * ICO兑换比例：兑换币种及兑换比例尚未公布。
