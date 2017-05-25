@@ -1,4 +1,4 @@
-# crypto-currencies#
+# crypto-currencies #
 加密货币投资分析
 
 * 本人将对数字货币投资进行持续追踪分析，新币从ico开始，已上市交易的币将筛选后进行追踪报道，从客观理性角度分析，分享干货给大家做价值投资参考。 
@@ -22,6 +22,7 @@
 * [ICO-Basic Attention Token（BAT）-投资可行性分析
 ](https://github.com/weihaiyan/crypto-currencies/blob/master/basia%20attention%20takoen.BAT/ICO-Basic%20Attention%20Token%EF%BC%88BAT%EF%BC%89-%E6%8A%95%E8%B5%84%E5%8F%AF%E8%A1%8C%E6%80%A7%E5%88%86%E6%9E%90.md)
 * [项目追踪-云储币(SC)-sia如何让云储存去中心化及项目进](https://github.com/weihaiyan/crypto-currencies/blob/master/sia.SC.%E4%BA%91%E5%82%A8%E5%B8%81/sia(SC)%E4%BA%91%E5%82%A8%E5%B8%81%E6%8A%80%E6%9C%AF%E5%B1%82%E9%9D%A2%E5%8F%8A%E5%BA%94%E7%94%A8%E5%88%86%E6%9E%90.md)
+* [ICO-Status-投资可行性分析（part1）](https://github.com/weihaiyan/crypto-currencies/blob/master/status/ICO-status-%E6%8A%95%E8%B5%84%E5%8F%AF%E8%A1%8C%E6%80%A7%E5%88%86%E6%9E%90.md)
 
 
 
