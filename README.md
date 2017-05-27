@@ -11,6 +11,7 @@
 
 目录：
 
+分析
 * [ICO-Aragon阿拉贡-投资可行性分析
 ](https://github.com/weihaiyan/crypto-currencies/blob/master/aragon.ant.%E9%98%BF%E6%8B%89%E8%B4%A1/ICO-Aragon%E9%98%BF%E6%8B%89%E8%B4%A1-%E6%8A%95%E8%B5%84%E5%8F%AF%E8%A1%8C%E6%80%A7%E5%88%86%E6%9E%90.md)
 * [ICO-BITFID币飞-投资可行性分析
@@ -23,9 +24,10 @@
 ](https://github.com/weihaiyan/crypto-currencies/blob/master/basia%20attention%20takoen.BAT/ICO-Basic%20Attention%20Token%EF%BC%88BAT%EF%BC%89-%E6%8A%95%E8%B5%84%E5%8F%AF%E8%A1%8C%E6%80%A7%E5%88%86%E6%9E%90.md)
 * [项目追踪-云储币(SC)-sia如何让云储存去中心化及项目进](https://github.com/weihaiyan/crypto-currencies/blob/master/sia.SC.%E4%BA%91%E5%82%A8%E5%B8%81/sia(SC)%E4%BA%91%E5%82%A8%E5%B8%81%E6%8A%80%E6%9C%AF%E5%B1%82%E9%9D%A2%E5%8F%8A%E5%BA%94%E7%94%A8%E5%88%86%E6%9E%90.md)
 * [ICO-Status-投资可行性分析（part1）](https://github.com/weihaiyan/crypto-currencies/blob/master/status/ICO-status-%E6%8A%95%E8%B5%84%E5%8F%AF%E8%A1%8C%E6%80%A7%E5%88%86%E6%9E%90.md)
+* [项目追踪-zcash(ZEC)技术层面及应用分析](https://github.com/weihaiyan/crypto-currencies/blob/master/zcash.ZEC/zcash(ZEC)%E6%8A%80%E6%9C%AF%E5%B1%82%E9%9D%A2%E5%8F%8A%E5%BA%94%E7%94%A8%E5%88%86%E6%9E%90.md)
 
 
-
+白皮书
 * [Whitepaper-ANT阿拉贡](https://github.com/weihaiyan/crypto-currencies/blob/master/aragon.ant.%E9%98%BF%E6%8B%89%E8%B4%A1/Aragon-Whitepaper.pdf)
 * [白皮书-ANT阿拉贡](https://github.com/weihaiyan/crypto-currencies/blob/master/aragon.ant.%E9%98%BF%E6%8B%89%E8%B4%A1/%E9%98%BF%E6%8B%89%E8%B4%A1-%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
 * [白皮书-FID币飞](https://github.com/weihaiyan/crypto-currencies/blob/master/bitfid.fid.%E5%B8%81%E9%A3%9E/BITFID-ICO-%E7%99%BD%E7%9A%AE%E4%B9%A6-V1.0.pdf)
@@ -34,5 +36,16 @@
 * [Whitepaper-BAT](https://github.com/weihaiyan/crypto-currencies/blob/master/basia%20attention%20takoen.BAT/BasicAttentionTokenWhitePaper.pdf)
 * [白皮书-BAT](https://github.com/weihaiyan/crypto-currencies/blob/master/basia%20attention%20takoen.BAT/bat%E4%B8%AD%E6%96%87%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
 * [Whitepaper-SC云储币](https://github.com/weihaiyan/crypto-currencies/blob/master/sia.SC.%E4%BA%91%E5%82%A8%E5%B8%81/whitepaper-sc.pdf)
+
+
+
+
+
+
+
+技术类文章
+* [Zerocash Decentralized Anonymous Payments from Bitcoin-extended version](https://github.com/weihaiyan/crypto-currencies/blob/master/zcash.ZEC/Zerocash%20Decentralized%20Anonymous%20Payments%20from%20Bitcoin-extended%20version.pdf)
+* [Succinct Non-Interactive Zero Knowledge for a von Neumann Architecture](https://github.com/weihaiyan/crypto-currencies/blob/master/zcash.ZEC/Succinct%20Non-Interactive%20Zero%20Knowledge%20for%20a%20von%20Neumann%20Architecture.pdf)
+* [Zcash Protocol Speci cation Version 2017.0-beta-2.6](https://github.com/weihaiyan/crypto-currencies/blob/master/zcash.ZEC/Zcash%20Protocol%20Speci%20cation%20Version%202017.0-beta-2.6.pdf)
 
 
