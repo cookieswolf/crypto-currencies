@@ -25,6 +25,7 @@
 * [项目追踪-云储币(SC)-sia如何让云储存去中心化及项目进](https://github.com/weihaiyan/crypto-currencies/blob/master/sia.SC.%E4%BA%91%E5%82%A8%E5%B8%81/sia(SC)%E4%BA%91%E5%82%A8%E5%B8%81%E6%8A%80%E6%9C%AF%E5%B1%82%E9%9D%A2%E5%8F%8A%E5%BA%94%E7%94%A8%E5%88%86%E6%9E%90.md)
 * [ICO-Status-投资可行性分析（part1）](https://github.com/weihaiyan/crypto-currencies/blob/master/status/ICO-status-%E6%8A%95%E8%B5%84%E5%8F%AF%E8%A1%8C%E6%80%A7%E5%88%86%E6%9E%90.md)
 * [项目追踪-zcash(ZEC)技术层面及应用分析](https://github.com/weihaiyan/crypto-currencies/blob/master/zcash.ZEC/zcash(ZEC)%E6%8A%80%E6%9C%AF%E5%B1%82%E9%9D%A2%E5%8F%8A%E5%BA%94%E7%94%A8%E5%88%86%E6%9E%90.md)
+* [项目追踪-dash(达世币)匿名交易实现原理及应用追踪分析](https://github.com/weihaiyan/crypto-currencies/blob/master/dash.%E8%BE%BE%E4%B8%96%E5%B8%81/dash%E5%8C%BF%E5%90%8D%E4%BA%A4%E6%98%93%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8%E8%BF%BD%E8%B8%AA%E5%88%86%E6%9E%90.md)
 
 
 白皮书
@@ -36,6 +37,8 @@
 * [Whitepaper-BAT](https://github.com/weihaiyan/crypto-currencies/blob/master/basia%20attention%20takoen.BAT/BasicAttentionTokenWhitePaper.pdf)
 * [白皮书-BAT](https://github.com/weihaiyan/crypto-currencies/blob/master/basia%20attention%20takoen.BAT/bat%E4%B8%AD%E6%96%87%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
 * [Whitepaper-SC云储币](https://github.com/weihaiyan/crypto-currencies/blob/master/sia.SC.%E4%BA%91%E5%82%A8%E5%B8%81/whitepaper-sc.pdf)
+* [白皮书-dash达世币](https://github.com/weihaiyan/crypto-currencies/blob/master/dash.%E8%BE%BE%E4%B8%96%E5%B8%81/dash_Whitepaper_cn%20.pdf)
+* [Whitepaper-dash达世币](https://github.com/weihaiyan/crypto-currencies/blob/master/dash.%E8%BE%BE%E4%B8%96%E5%B8%81/dash_Whitepaper_en.pdf)
 
 
 
