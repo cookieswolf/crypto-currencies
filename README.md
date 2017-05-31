@@ -26,6 +26,9 @@
 * [ICO-Status-投资可行性分析（part1）](https://github.com/weihaiyan/crypto-currencies/blob/master/status/ICO-status-%E6%8A%95%E8%B5%84%E5%8F%AF%E8%A1%8C%E6%80%A7%E5%88%86%E6%9E%90.md)
 * [项目追踪-zcash(ZEC)技术层面及应用分析](https://github.com/weihaiyan/crypto-currencies/blob/master/zcash.ZEC/zcash(ZEC)%E6%8A%80%E6%9C%AF%E5%B1%82%E9%9D%A2%E5%8F%8A%E5%BA%94%E7%94%A8%E5%88%86%E6%9E%90.md)
 * [项目追踪-dash(达世币)匿名交易实现原理及应用追踪分析](https://github.com/weihaiyan/crypto-currencies/blob/master/dash.%E8%BE%BE%E4%B8%96%E5%B8%81/dash%E5%8C%BF%E5%90%8D%E4%BA%A4%E6%98%93%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8%E8%BF%BD%E8%B8%AA%E5%88%86%E6%9E%90.md)
+* [项目追踪-BitShares(BTS比特股)构建去中心化交易平台的技术分析](https://github.com/weihaiyan/crypto-currencies/blob/master/BitShares.BTS.%E6%AF%94%E7%89%B9%E8%82%A1/BitShares%E9%A1%B9%E7%9B%AE%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90.md)
+* [项目追踪-Litecoin(LTC莱特币)与比特币的对比分析](https://github.com/weihaiyan/crypto-currencies/blob/master/Litecoin.LTC.%E8%8E%B1%E7%89%B9%E5%B8%81/Litecoin(LTC%E8%8E%B1%E7%89%B9%E5%B8%81)-%E4%B8%8E%E6%AF%94%E7%89%B9%E5%B8%81%E7%9A%84%E5%AF%B9%E6%AF%94%E5%88%86%E6%9E%90.md)
+
 
 
 白皮书
@@ -39,7 +42,9 @@
 * [Whitepaper-SC云储币](https://github.com/weihaiyan/crypto-currencies/blob/master/sia.SC.%E4%BA%91%E5%82%A8%E5%B8%81/whitepaper-sc.pdf)
 * [白皮书-dash达世币](https://github.com/weihaiyan/crypto-currencies/blob/master/dash.%E8%BE%BE%E4%B8%96%E5%B8%81/dash_Whitepaper_cn%20.pdf)
 * [Whitepaper-dash达世币](https://github.com/weihaiyan/crypto-currencies/blob/master/dash.%E8%BE%BE%E4%B8%96%E5%B8%81/dash_Whitepaper_en.pdf)
-
+* [白皮书-比特股投资白皮书V1.0](https://github.com/weihaiyan/crypto-currencies/blob/master/BitShares.BTS.%E6%AF%94%E7%89%B9%E8%82%A1/%E6%AF%94%E7%89%B9%E8%82%A1%E6%8A%95%E8%B5%84%E7%99%BD%E7%9A%AE%E4%B9%A6V1.0.pdf)
+* [白皮书-比特股X白皮书](https://github.com/weihaiyan/crypto-currencies/blob/master/BitShares.BTS.%E6%AF%94%E7%89%B9%E8%82%A1/%E6%AF%94%E7%89%B9%E8%82%A1X%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
+* [Whitepaper-bitshares2.0whitepaper-en](https://github.com/weihaiyan/crypto-currencies/blob/master/BitShares.BTS.%E6%AF%94%E7%89%B9%E8%82%A1/bitshares2.0whitepaper-en.pdf)
 
 
 
