@@ -15,9 +15,9 @@ ICO-Basic Attention Token（BAT）-投资可行性分析
 
 代币分配方案
 -----
-* 后续不增发。 
+* 后续不增发，总量10亿。 
 
-|比例|分配方案|明细|
+ |比例|分配方案|明细|
 |:----:|:------:|:----:|
 |70%|ICO|用于BAT生态系统的开发和发展，其中包括基于Etherey的智能合约系统和Brave浏览器。|
 |20%|开发团队|用于开发，营销，运营和其他成本|
@@ -27,6 +27,18 @@ ICO-Basic Attention Token（BAT）-投资可行性分析
 *注：作为下载Brave浏览器的激励代币只能在浏览器系统中使用（消费或捐赠）。任何在指定之间内未被用户使用的BAT将被返回到池中。一旦用户增长池用尽，将不再增加增长池中的代币。*
 
 * ICO兑换比例：兑换币种及兑换比例尚未公布。
+
+
+* **发行前项目方将ICO数据进行了调整，以下为最终数据：**
+* 总量15亿
+
+  |比例|分配方案|明细|
+|:----:|:------:|:----:|
+|67%|ICO|用于BAT生态系统的开发和发展，其中包括基于Etherey的智能合约系统和Brave浏览器。|
+|13%|开发团队|用于开发，营销，运营和其他成本|
+|20%|用户增长池|将用于激励用户下载Brave浏览器|
+
+* ICO兑换比例：1eth=6400bat。
 
 项目分析
 -----
@@ -66,33 +78,31 @@ ICO-Basic Attention Token（BAT）-投资可行性分析
 （截止发布日期：2017/5/22）
 
 
-众筹情况
+众筹情况（更新）
 ----
 |项目介绍|||
 |:----:|:------:|:----:|
-|项目名称：Basic Attention Token|代币简称：BAT|代币总量：未知|
+|项目名称：Basic Attention Token|代币简称：BAT|代币总量：15|
 |ICO时间：2017/5/31|接受币种：eth|ICO总量：10亿 BAT|
-|第三方背书：否|最低目标：400万美元|最高目标：1500万美元|
+|第三方背书：否|最低目标：1080万美元|最高目标：2400万美元|
 
 
 |网站|链接|
 |:----:|:------:|
 |官网|[basicattentiontoken.org/](http://www.basicattentiontoken.org/)|
-|ICO平台|尚未确定|
+|ICO平台|官网及imtoken|
 |twitter|[twitter.com/@attentiontoken](http://www.twitter.com/@attentiontoken)|
 |medium|[medium.com/@attentiontoken](http://www.medium.com/@attentiontoken)|
 |slack|[slack.basicattentiontoken.org/](http://slack.basicattentiontoken.org)|
 |white paper|[basicattentiontoken.org/wp-content/uploads/2017/03/BasicAttentionTokenWhitePaper.pdf](http://basicattentiontoken.org/wp-content/uploads/2017/03/BasicAttentionTokenWhitePaper.pdf)|
 
-项目总结：
+项目总结（更新）：
 ------
 1. brave浏览器已支持ios／Android／Windows／macOS／Linux设备，使用流畅，BAT代币上线后，团队将会把BAT多重签名钱包集合进brave，并开发BAT插件，支持其他浏览器。
-2. ICO发币70%，最多筹集1500万美元；团队预留20%，分配合理。
+2. ICO发币67%，最多筹集2400万美元；团队预留13%，临时提高ICO上限及降低ICO代币发放比例引起较多人不满。
 2. 团队创始人Brendan Eich为js创始人，Mozilla和Firefox联合创始人；团队技术可靠。
-4. 项目在市场中关注度较高。
-5. 但ICO细节尚未公布：兑换比例，合约地址，ICO平台等信息官方均未公布（暴走恭亲王在微信回复icoage将尽快上线BAT的锁定投资，imtoken已发布BAT项目，但未公布ICO时间）
+4. 项目在市场中关注度较高，ICO开始30秒即结束。
 
-**对于ICO细节问题，我们将持续关注，并在第一时间发文，敬请关注。**
 
 **关于ICO项目分析文章，请关注小密圈ID：61818889，小密圈将作为第一发布平台，其他平台将在ICO结束后发布。**
 
